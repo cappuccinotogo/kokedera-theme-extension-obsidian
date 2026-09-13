@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "repository": "cappuccinotogo/kokedera-theme-extension-obsidian",
   "generator": "https://github.com/cappuccinotogo/kokedera-theme-ports",
-  "generatorHash": "8151c12cf8cdd1cb0ad837d1cd9f297db83f1959cde46219df6edd827ec39c61",
-  "paletteHash": "5fbe2aeb639efa1e33f054415b37f4fb7b2cd3300779950362e9c55c975ce8ca",
+  "generatorHash": "c5298e887dcdaf690784fda69fe52f8b45dc1f3cd8aaf4561b47ed963b2594f6",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
   "variants": [
     {
       "id": "dusk",
@@ -57,7 +57,7 @@
     ".github/workflows/validate.yml": "6fcdb75de637071c43b111b2413eea3731f02d3183927163699f4e7767e338e2",
     ".gitignore": "fdbd55a593609bb23a4fb57f77672a966635e6698774fadb28a494c056763be1",
     "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
-    "README.md": "d69e90f89787d33d017e8a6179ae89a807be7a6bec2ac15145f82e98933d0618",
+    "README.md": "ba51b57f6b56e68165f0b66b7615e2d6b513a8a95a4ebc5cc281b2ee3292720f",
     "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
     "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
     "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",

@@ -2,7 +2,7 @@
 
 # Kokedera for Obsidian
 
-Nine garden palettes for Obsidian, including Live Preview, reading, callouts, tables and graph colors.
+Nine moss temple palettes for Obsidian, including Live Preview, reading, callouts, tables and graph colors.
 
 Nine palettes inspired by forest greens, weathered stone, and warm lantern light. Seven dark variants and two light variants, matching the Kokedera themes for VS Code, JetBrains, and Zed.
 
